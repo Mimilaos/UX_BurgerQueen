@@ -1,5 +1,5 @@
 # BurgerQueen 
-![logo](https://ibb.co/G9K6ZBz).
+![logo](https://i.ibb.co/FXSrQNR/Captura-de-Pantalla-2019-05-06-a-la-s-1-20-47.png).
 
 Nos acaban de enviar un correo con una solicitud para un nuevo proyecto.
 Hay un restaurante que nos ha contactado porque quieren que alguien les construya una interfaz donde puedan tomar pedidos usando una tablet.
@@ -53,10 +53,7 @@ Design Sprint es una metodología desarrollada por Google Ventures popularizada 
 
 Con un proceso de 5 días, aunque a veces los podemos acortar a 3 días. En ellos a través de una serie de técnicas y de un estricto control del tiempo pasamos de la idea al producto diseñado y con un plan de validación en mercado con usuarios.
 
-![Design Sprint](https://ibb.co/wLBwJhN).
-
-
-
+![Design Sprint](https://i.ibb.co/8BNdzgD/design-sprint.jpg).
 
 
 ## Objetivo
@@ -128,7 +125,7 @@ Una navegación más intuitiva
 ## Mapa de Empatía
 
 A través de la exploración de campo se realizó un empathy map para definir el perfil de nuestro usuario
-![Empathy Map](https://ibb.co/wLBwJhN).
+![Empathy Map](https://i.ibb.co/GRKst9V/Captura-de-Pantalla-2019-05-06-a-la-s-0-58-50.png).
 
 ## Benchmarking
 
@@ -157,13 +154,7 @@ En conclusión, todos las soluciones vistas, complacen las necesidades básicas,
 
 ## Presentación con Cliente
 
-Visualizar la presentación con cliente aqui *[presentación](https://docs.google.com/presentation/d/1WvAPVs9h6t70PwkL1gr9VOuSlxq66HfNiThcVU4W86E/edit#slide=id.g56605a8ff6_0_4).
-
-
-
-
-
-
+Visualizar la presentación con cliente *[aqui](https://docs.google.com/presentation/d/1WvAPVs9h6t70PwkL1gr9VOuSlxq66HfNiThcVU4W86E/edit#slide=id.g56605a8ff6_0_4).
 
 
 ### Requerimientos
