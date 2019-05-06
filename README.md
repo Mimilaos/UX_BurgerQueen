@@ -1,5 +1,5 @@
 # BurgerQueen 
-![logo](https://i.ibb.co/FXSrQNR/Captura-de-Pantalla-2019-05-06-a-la-s-1-20-47.png).
+![logo]().
 
 Nos acaban de enviar un correo con una solicitud para un nuevo proyecto.
 Hay un restaurante que nos ha contactado porque quieren que alguien les construya una interfaz donde puedan tomar pedidos usando una tablet.
